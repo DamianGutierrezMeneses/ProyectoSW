@@ -17,7 +17,7 @@ public class ProyectoSW {
     public static void main(String[] args) {
         
         System.out.println("prueba de version 1.1");
-        
+        System.out.println("prueba 1.2");
     }
     
 }
